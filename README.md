@@ -3,5 +3,9 @@ Developed a machine learning system to detect pet facial expressions using a dat
 
 
 • Collected and annotated 10,000+ pet images from Kaggle, categorizing emotions like happiness, sadness, anger, and fear.
+
+
 • Leveraged convolutional neural networks (CNNs) to achieve 92% accuracy in classifying pet facial expressions.
+
+
 • Demonstrated potential for improving pet-human interaction and veterinary care through accurate emotion recognition.
